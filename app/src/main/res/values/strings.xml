@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Hamro Guide</string>
+    <string name="start_updates">START LOCATION UPDATES</string>
+    <string name="stop_updates">STOP LOCATION UPDATES</string>
+    <string name="get_last_location">GET LAST LOCATION</string>
+    <string name="access_token_mapbox" translatable="false">pk.eyJ1IjoidXZzYW50b3MiLCJhIjoiY2p2MjZ5c3F1MjF0djQ0cHA2ZW1yZXVkYSJ9.yWct70IPaStdUgR--jmSOA</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="title_activity_agencies_main">AgenciesMain</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">543059363171890</string>
+    <string name="fb_login_protocol_scheme">fb543059363171890</string>
+
+    <!--<string name="facebook_app_id">279530199621700</string><string name="facebook_app_id">1455287287945613</string>
+    <string name="fb_login_protocol_scheme">fb279530199621700</string> -->
+    <string name="aboutus">You want to see places out of the boring tourist brochures, feel domestic life and pure emotion of living? To meet new people, have fun, learn something new and original? Make most of every single trip you made across the globe using our Hamro Guide app. Hamro Guide is an mobile application where tourists can find local people willing to help them discover the most interesting parts of their world.</string>
+    <string name="disclaimer">The information provided should not be misused. The author shall have no liability, obligation or responsibility to any person or entity for any loss, damage or adverse consequences alleged to have happened directly or indirectly as a consequence of material on this app. This App will Help to achive all this things.</string>
+    <string name="p1">Everest base camp is the most thrilling, exciting, and challenging trek for the trekking lovers. It is an enthralling world class journey in the high Himalayas that leads you to the base camp of the highest peak on earth. Situated in Khumbu region, Nepal it is a beautiful heaven in itself.Everest Base Camp is the gateway for all the climbers that attempt to climb the highest summit.it is the most famous trekking location that holds a long history of pride, glory and tragedy too.Everest Base Camp trekking gives you an enthralling life time experience. It will lead you to the best view points on earth like Kala Patthar (5555 m). Along with that you will also be able to witness the unbelievable and magnificent view of Mt. Everest and other nearby mountains. Everest Base camp trek will give you a life time experience of the pictorial Khumbu valley.</string>
+    <string name="p2">Siddhartha Gautama, the Lord Buddha, was born in 623 B.C. in the famous gardens of Lumbini, which soon became a place of pilgrimage. Among the pilgrims was the Indian emperor Ashoka, who erected one of his commemorative pillars there. The site is now being developed as a Buddhist pilgrimage centre, where the archaeological remains associated with the birth of the Lord Buddha form a central feature.</string>
+    <string name="p3">Tilicho Lake is a lake located in the Manang district of Nepal. It is situated at an altitude of 4,919 metres in the Annapurna range of the Himalayas. Anyone attempting to do the Annapurna Circuit route usually cross these watersheds between Manang and Kali Gandaki valleys above the 5,000 meters high Thorong La pass. Various lodges have been built between Manang and the Lake, but there aren’t any accommodation sites or even teahouses past the Tilicho Base Camp lodge.</string>
+    <string name="p4">Annapurna Base Camp  is one of the best legendary and classical treks in the world offering the chances to observe and explore the typical Nepali village, and traditional way of life. The Annapurna Base Camp route goes passing through spectacular and tranquil landscapes, charming Gurung and Magar villages, lush green Rhododendron, bamboo and alpine forests to the trip’s last and final destination, Annapurna Base Camp at the height of 4130m.</string>
+    <string name="p5">The Upper Mustangcan also be called a peek into the hidden world of Buddhist kingdom of Mustang, also called Lo. Lo used to be a part of the Tibetan empire, and is therefore very closely related to Tibet; not only the culture, also the landscape is very much related to Tibet. Surrounded by rocks in all kinds of colors and bizarre formations, Mustang is mostly a barren landscape where the villages with their bright colored fields are like Oasis in the deserts. Mustang lies in the shadow of the Dhaulagiri region and is a complete desolate landscape. The culture of the people living there is one of the major attractions for tourists and visitors alike.</string>
+    <string name="nothing">Description Not Found</string>
+
+    <string name="server_url">sushil-carol.000webhostapp.com</string>
+</resources>

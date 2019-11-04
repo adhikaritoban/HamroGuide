@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/travel_news_id"
+            android:title="Travel News"
+            android:icon="@drawable/news"
+            />
+        <item
+            android:id="@+id/emergency_id"
+            android:title="Emergency"
+            android:icon="@drawable/emergency"
+            />
+        <item
+            android:id="@+id/agency_id"
+            android:title="Travel Agencies"
+            android:icon="@drawable/agencies"
+            />
+        <item
+            android:id="@+id/hamro_map_id"
+            android:title="Hamro Guide Map"
+            android:icon="@drawable/map"
+            />
+
+        <item
+            android:id="@+id/place_id"
+            android:title="Explore Places"
+            android:icon="@drawable/visitplace"
+            />
+
+
+    </group>
+    <item android:title="Social">
+        <menu>
+            <item
+                android:id="@+id/facebook_id"
+                android:icon="@drawable/fb"
+                android:title="Facebook"></item>
+            <item
+                android:id="@+id/gmail_id"
+                android:icon="@drawable/gmail"
+                android:title="Gmail"></item>
+            <item
+                android:id="@+id/share_id"
+                android:icon="@drawable/share"
+                android:title="Share"></item>
+            <item
+                android:id="@+id/feedback_id"
+                android:icon="@drawable/feedback"
+                android:title="Feedback"></item>
+
+            <item
+                android:id="@+id/logout_id"
+                android:icon="@drawable/logout"
+                android:title="Log Out"></item>
+        </menu>
+    </item>
+
+</menu>
